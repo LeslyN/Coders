@@ -1,0 +1,56 @@
+body {
+	width: 700px;
+	font-family: sans-serif;
+	font-size: 12px
+}
+
+h1 {
+		font-size: 14px;
+		border-bottom-width: 0.3em;
+}
+
+.code {
+	background-repeat: no-repeat;
+	display: inline-block;
+	margin: 13px 13px;
+	position: relative;	
+	width: 150px; 
+}
+
+#cod1 {
+	height: 165px;
+  background-image: url('../assets/img/cod1.jpeg');
+}
+
+#cod2 {
+	height: 155px;
+	background-image: url('../assets/img/cod2.jpg');
+}
+
+#cod3 {
+	height: 165px;
+	background-image: url('../assets/img/cod3.jpg');
+}
+
+#cod4 {
+	height: 145px;
+	background-image: url('../assets/img/cod4.png');
+}
+
+#cod5 {
+	height: 145px;
+	background-image: url('../assets/img/cod5.jpg');
+}
+
+#cod6 {
+	height: 150px;
+	background-image: url('../assets/img/cod6.jpg');
+}
+
+p {
+	padding-right: 10px; 
+	right: 0;
+	bottom: 0;
+	position: absolute;
+	color: #29e595;
+}
